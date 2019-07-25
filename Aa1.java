@@ -1,3 +1,5 @@
+//hi there i am mooohhito
+
  /*Given two arrays sort the values of one array using the second array.
 	input string Array1[]={"a","b","c","d","e","f","g","h","i"}
 	int arr2[]={0,1,1,0,1,2,2,0,1}
